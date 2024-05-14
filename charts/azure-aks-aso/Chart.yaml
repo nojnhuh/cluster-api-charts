@@ -4,3 +4,6 @@ description: A chart describing an AKS cluster for CAPZ using the ASO API
 type: application
 version: 0.1.0
 appVersion: 0.1.0
+maintainers:
+  - name: mboersma
+    email: Matt.Boersma@microsoft.com
